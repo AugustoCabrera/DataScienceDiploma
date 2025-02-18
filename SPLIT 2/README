@@ -1,0 +1,75 @@
+
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="padding: 0 20px;">
+        <img src="img/icaro.png" alt="Logo ICARO" width="400">
+      </td>
+      <td align="center" style="padding: 0 20px;">
+        <img src="img/fcefyn.png" alt="Logo FCEFYN" width="300">
+      </td>
+      <td align="center" style="padding: 0 20px;">
+        <img src="img/unc.png" alt="Logo UNC" width="300">
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+# 📊 **Diplomatura Data Science**  
+
+
+# Sprint N°2: Machine Learning  
+
+### 📌 **Información del Proyecto**  
+
+- **Estudiante:** **Augusto Gabriel Cabrera**
+  - **Profesor:** Germán Rodríguez  
+    - **Fecha:** 11 de Febrero de 2025  
+
+---
+
+### 🧑‍💻 **Temática:**  
+
+
+---
+
+### 🔍 **Objetivos del Sprint:**  
+
+
+
+---
+
+### 🚀 **Fases del Sprint:**  
+
+---
+## 📜 **Consigna**  
+
+
+
+
+---
+
+
+
+
+# Conjunto de Datos de Predicción Meteorológica
+
+Un conjunto de datos diseñado para la enseñanza de **aprendizaje automático** y **aprendizaje profundo**.
+
+## Descripción  
+La enseñanza práctica de técnicas modernas de aprendizaje automático y aprendizaje profundo depende en gran medida del uso de conjuntos de datos adecuados.  
+
+El **Conjunto de Datos de Predicción Meteorológica** es un conjunto de datos tabulares creado específicamente para fines educativos. Contiene observaciones meteorológicas accesibles de **18 lugares de Europa**, permitiendo su uso en una variedad de objetivos de formación.  
+
+Este conjunto de datos ha sido diseñado para evitar predicciones con una precisión irrealista, lo que permite a profesores e instructores ajustar la dificultad de los ejercicios según la audiencia o el objetivo de la lección.  
+
+## Ventajas  
+✅ **Compacto y accesible**: permite entrenar modelos en una computadora portátil estándar.  
+✅ **Versátil**: adecuado para diferentes niveles de enseñanza.  
+✅ **Ideal para sesiones prácticas en vivo**: facilita la experimentación en tiempo real.  
+
+## Enlaces de Descarga  
+- [Kaggle](https://www.kaggle.com/datasets/thedevastator/weather-prediction/data)  
+- [Zenodo](https://zenodo.org/records/4980359)
