@@ -49,7 +49,7 @@ Conjunto de Datos de Predicción Meteorológica utilizando modelos de Machine Le
 ---
 
 ## 🌟 **Consigna**  
-En este trabajo debes entrenar un modelo de regresión o clasificación y evaluar resultados. Trabajarás con un dataset que contiene información salarial de personas. Debes desarrollar un modelo capaz de predecir si una persona dada tiene un salario anual mayor a 50K dólares.
+En este trabajo debes entrenar un modelo de regresión o clasificación y evaluar resultados. 
 
 ### **Consignas Específicas:**
 - Definir el esquema de trabajo que utilizarás. Se sugiere iniciar por un breve EDA.
@@ -60,22 +60,7 @@ En este trabajo debes entrenar un modelo de regresión o clasificación y evalua
 - La Notebook debe servir como reporte de resultados. Puedes elegir cualquier par de modelos vistos en clase o explorados por tu cuenta. En este último caso, debes ser capaz de comprender cómo trabaja el algoritmo.
 
 
-## **Datos**  
-- **data.csv**: Es el dataset que utilizarás para entrenar tu modelo. Contiene features y el target.
 
-**IMPORTANTE**: Mucho cuidado al separar el dataset. No debes filtrar información sobre los resultados para entrenar y evaluar los modelos (**data leakage**).
-
-Aquí puedes encontrar información sobre las variables.
-
----
-
-## **Entrega**  
-### **Debes entregar:**
-- Una Notebook con el análisis e implementación del modelo predictivo.
-
-**A tener en cuenta:**
-- En la columna `workclass` van a ver los valores: `'Self-emp-not-inc'` y `'Self-emp-inc'`. Aquí pueden encontrar información sobre su significado.
-- En Pandas cuentas con la función `to_csv` que te permite exportar un dataframe a CSV. Recuerda especificar en el parámetro `index` que no quieres que el index quede en el archivo CSV.
 
 ### **Fecha de entrega:**
 La entrega se realizará en una actividad de Google Classroom.
