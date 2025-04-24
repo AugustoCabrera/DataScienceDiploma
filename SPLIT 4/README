@@ -1,0 +1,85 @@
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="padding: 0 20px;">
+        <img src="img/icaro.png" alt="Logo ICARO" width="400">
+      </td>
+      <td align="center" style="padding: 0 20px;">
+        <img src="img/fcefyn.png" alt="Logo FCEFYN" width="300">
+      </td>
+      <td align="center" style="padding: 0 20px;">
+        <img src="img/unc.png" alt="Logo UNC" width="300">
+      </td>
+    </tr>
+  </table>
+</div>
+
+# 📊 **Diplomatura Data Science**  
+
+# Sprint N°4: Procesamiento de Lenguaje Natural
+
+### 📌 **Información del Proyecto**  
+
+- **Estudiante:** **Augusto Gabriel Cabrera**
+- **Profesor:** Germán Rodríguez  
+- **Fecha:** 22 de Abril de 2025  
+
+
+
+## 📌 Temática
+Aplicación de técnicas fundamentales de Procesamiento de Lenguaje Natural (NLP) para generar valor a partir del análisis de datos conversacionales no estructurados, sin hipótesis previa ni requerimientos explícitos de negocio.
+
+
+---
+
+## 🎯 Objetivos del Sprint
+
+- Comprender los fundamentos del Procesamiento de Lenguaje Natural.
+- Estructurar un caso de análisis y generación de valor en un escenario real sin hipótesis previa.
+- Aplicar técnicas básicas de NLP sobre datos conversacionales no estructurados.
+- Interpretar los resultados obtenidos y comunicarlos de forma clara.
+
+---
+
+## 🗂️ Fases del Sprint
+
+### 1. Carga y exploración de datos
+- Análisis exploratorio inicial del dataset de reviews.
+- Limpieza básica del texto.
+
+### 2. Análisis de sentimiento
+- Clasificación de cada review como positiva, negativa o neutral.
+
+### 3. Reconocimiento de entidades (NER)
+- Identificación de entidades clave mencionadas en cada review.
+
+### 4. Extracción de keywords y tópicos por negocio
+- Identificación de palabras clave y tópicos frecuentes por cada `business_id`.
+
+### 5. Ranking de negocios por sentimiento
+- Identificación del negocio con mayor cantidad de comentarios positivos.
+- Identificación del negocio con mayor cantidad de comentarios negativos.
+
+### 6. Análisis opcional (bonus)
+- Asociación de tópicos y keywords con sentimientos.
+- Evolución del sentimiento a lo largo del tiempo.
+- Otros análisis exploratorios de valor.
+
+---
+
+## 📝 Consigna
+
+Utilizar técnicas de NLP para generar valor a partir de los datos, sin necesidad de contar con una hipótesis o demanda específica. Como mínimo, se debe incluir:
+
+- Análisis de sentimiento de cada review.
+- Extracción de entidades por review.
+- Identificación de keywords y tópicos por negocio (`business_id`).
+- Determinación del negocio con más comentarios positivos y el negocio con más comentarios negativos.
+
+**Extras opcionales:**
+- Tópicos asociados a sentimientos.
+- Keywords asociadas a sentimientos.
+- Análisis de sentimiento a lo largo del tiempo.
+- Cualquier otro tipo de análisis exploratorio que aporte valor.
+
+---
